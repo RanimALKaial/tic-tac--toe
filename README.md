@@ -1,2 +1,2 @@
 # tic-tac--toe
-Create Games X | | O
+Create Games X | | O with React.js 
